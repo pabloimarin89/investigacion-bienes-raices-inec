@@ -311,6 +311,6 @@ knitr::kable(
 
 ## 7.2 Reproducibilidad
 
-**Repositorio público:** \[Agregar enlace de GitHub o GitLab antes de la entrega final\].
+Repositorio público: <https://github.com/pabloimarin89/investigacion-bienes-raices-inec>
 
 Los scripts que generan la homologación, manipulación, tablas y figuras se encuentran en la carpeta `03_scripts_R`. El informe no muestra el código porque el objetivo del documento es comunicar los resultados; la programación queda disponible en el repositorio para asegurar la reproducibilidad.
