@@ -1,0 +1,988 @@
+anio,nivel_geo,provincia,canton,permisos_suma_grupos,viviendas_suma_grupos,area_suma_grupos,permisos_total,viviendas_total,area_total_m2,valor_total_fuente,archivo_fuente,dif_permisos,dif_viviendas,dif_area,validacion_principal
+2014,Cantón,ALAJUELA,ALAJUELA,764,1773,231714,764,1773,231714,58062946.89,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,ALAJUELA,ATENAS,159,170,18587,159,170,18587,4175988.177,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,ALAJUELA,GRECIA,415,420,43029,415,420,43029,10343960.99,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,ALAJUELA,GUATUSO,105,105,4700,105,105,4700,780793.296,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,ALAJUELA,LOS CHILES,112,113,5177,112,113,5177,927583.279,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,ALAJUELA,NARANJO,239,245,18604,239,245,18604,4252062.702,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,ALAJUELA,OROTINA,135,137,10595,135,137,10595,2257737.955,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,ALAJUELA,PALMARES,163,164,16259,163,164,16259,3824331.331,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,ALAJUELA,POAS,191,199,17112,191,199,17112,3976883.087,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,ALAJUELA,SAN  MATEO,69,69,6218,69,69,6218,1395235.712,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,ALAJUELA,SAN CARLOS,963,970,66734,963,970,66734,13849289.6,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,ALAJUELA,SAN RAMON,643,645,45382,643,645,45382,10184850.39,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,ALAJUELA,UPALA,335,336,16398,335,336,16398,2902014.798,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,ALAJUELA,VALVERDE VEGA,95,104,10421,95,104,10421,2397018.84,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,ALAJUELA,ZARCERO,31,31,2479,31,31,2479,565372.205,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,CARTAGO,ALVARADO,121,121,7782,121,121,7782,1699623.657,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,CARTAGO,CARTAGO,712,793,77464,712,793,77464,19084272.55,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,CARTAGO,EL GUARCO,142,168,15970,142,168,15970,4023105.122,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,CARTAGO,JIMENEZ,133,199,9727,133,199,9727,1787039.57,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,CARTAGO,LA UNION,367,475,54255,367,475,54255,14115964.9,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,CARTAGO,OREAMUNO,186,250,23754,186,250,23754,6168119.104,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,CARTAGO,PARAISO,254,254,17409,254,254,17409,3844669.753,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,CARTAGO,TURRIALBA,370,385,24446,370,385,24446,5968349.803,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,GUANACASTE,ABANGARES,88,88,4677,88,88,4677,936334.858,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,GUANACASTE,BAGACES,115,122,7274,115,122,7274,1543094.032,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,GUANACASTE,CARRILLO,231,347,41726,231,347,41726,9729130.23,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,GUANACASTE,CAÑAS,89,94,6319,89,94,6319,1466716.726,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,GUANACASTE,HOJANCHA,68,69,6071,68,69,6071,1631644.55,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,GUANACASTE,LA CRUZ,124,177,8808,124,177,8808,1730946.618,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,GUANACASTE,LIBERIA,175,176,15530,175,176,15530,5624719.084,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,GUANACASTE,NANDAYURE,57,57,3200,57,57,3200,633098.251,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,GUANACASTE,NICOYA,301,309,28263,301,309,28263,6717809.869,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,GUANACASTE,SANTA CRUZ,333,408,42590,333,408,42590,12063665.16,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,GUANACASTE,TILARAN,102,103,9486,102,103,9486,2196183.909,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,HEREDIA,BARVA,198,210,25499,198,210,25499,6664910.883,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,HEREDIA,BELEN,49,68,9689,49,68,9689,2735068.5,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,HEREDIA,FLORES,100,126,16494,100,126,16494,4367924.116,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,HEREDIA,HEREDIA,445,1139,134611,445,1139,134611,34398401.1,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,HEREDIA,SAN  RAFAEL,270,294,37582,270,294,37582,9177173.34,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,HEREDIA,SAN ISIDRO,132,149,21197,132,149,21197,5558552.456,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,HEREDIA,SAN PABLO,174,269,31806,174,269,31806,8013360.867,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,HEREDIA,SANTA BARBARA,118,138,13223,118,138,13223,3593757.599,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,HEREDIA,SANTO DOMINGO,175,189,28634,175,189,28634,7277169.118,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,HEREDIA,SARAPIQUI,349,352,16791,349,352,16791,2898371.533,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,LIMON,GUACIMO,312,322,15005,312,322,15005,2816888.991,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,LIMON,LIMON,125,224,41916,125,224,41916,4596038.16,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,LIMON,MATINA,86,86,3987,86,86,3987,769860.974,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,LIMON,POCOCI,924,938,50737,924,938,50737,10338295.82,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,LIMON,SIQUIRRES,113,118,6533,113,118,6533,1315465.913,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,LIMON,TALAMANCA,185,193,11175,185,193,11175,2352132.473,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,PUNTARENAS,AGUIRRE,61,62,5939,61,62,5939,1415270.683,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,PUNTARENAS,BUENOS AIRES,348,348,16017,348,348,16017,2788442.196,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,PUNTARENAS,CORREDORES,235,246,13974,235,246,13974,2776751.833,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,PUNTARENAS,COTO BRUS,378,378,19863,378,378,19863,3632399.092,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,PUNTARENAS,ESPARZA,126,129,10438,126,129,10438,2259085.323,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,PUNTARENAS,GARABITO,346,346,33435,346,346,33435,10453699.34,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,PUNTARENAS,GOLFITO,192,210,15750,192,210,15750,3624957.684,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,PUNTARENAS,MONTES DE ORO,65,65,3772,65,65,3772,859518.485,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,PUNTARENAS,OSA,250,288,28848,250,288,28848,8096269.791,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,PUNTARENAS,PARRITA,135,222,13461,135,222,13461,2933665.249,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,PUNTARENAS,PUNTARENAS,276,306,20796,276,306,20796,9167045.471,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,ACOSTA,125,127,7276,125,127,7276,1446458.253,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,ALAJUELITA,121,249,20654,121,249,20654,6690490.494,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,ASERRI,175,186,12685,175,186,12685,2724727.192,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,CURRIDABAT,89,204,35483,89,204,35483,10379550.58,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,DESAMPARADOS,179,185,15904,179,185,15904,3656238.437,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,DOTA,62,66,3766,62,66,3766,719428.981,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,ESCAZU,113,475,88247,113,475,88247,24203858.47,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,GOICOECHEA,190,317,34769,190,317,34769,8490385.335,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,LEON CORTES,68,68,3493,68,68,3493,655188.014,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,MONTES DE OCA,75,161,23770,75,161,23770,6573500,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,MORA,147,165,17059,147,165,17059,4122937.01,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,MORAVIA,91,97,12808,91,97,12808,3375572.511,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,PEREZ ZELEDON,955,955,58808,955,955,58808,12189325.81,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,PURISCAL,226,227,15306,226,227,15306,3280516.801,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,SAN JOSE,110,535,88322,110,535,88322,23221543.03,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,SANTA ANA,209,696,132577,209,696,132577,39590487.45,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,TARRAZU,99,99,5854,99,99,5854,1103249.408,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,TIBAS,36,85,7772,36,85,7772,2208305.374,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,TURRUBARES,62,62,4338,62,62,4338,1016853.772,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Cantón,SAN JOSE,VASQUEZ DE CORONADO,53,53,7806,53,53,7806,2103838.647,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Costa Rica,NA,NA,17739,22503,2162029,17739,22503,2162029,533493489.6,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Provincia,ALAJUELA,NA,4419,5481,513409,4419,5481,513409,119896069.3,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Provincia,CARTAGO,NA,2285,2645,230807,2285,2645,230807,56691144.45,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Provincia,GUANACASTE,NA,1683,1950,173944,1683,1950,173944,44273343.29,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Provincia,HEREDIA,NA,2010,2934,335526,2010,2934,335526,84684689.51,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Provincia,LIMON,NA,1745,1881,129353,1745,1881,129353,22188682.33,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Provincia,PUNTARENAS,NA,2412,2600,182293,2412,2600,182293,48007105.14,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2014,Provincia,SAN JOSE,NA,3185,5012,596697,3185,5012,596697,157752455.6,reeconomestconstru2014-04_2.xlsx,0,0,0,OK
+2015,Cantón,Alajuela,Alajuela,764,1099,127529,764,1099,127529,34170526846,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Alajuela,Atenas,205,222,24773,205,222,24773,5760182983,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Alajuela,Grecia,464,465,50003,464,465,50003,11811392803,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Alajuela,Guatuso,92,123,5783,92,123,5783,1066342803,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Alajuela,Los Chiles,99,99,5033,99,99,5033,926605567,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Alajuela,Naranjo,285,289,23989,285,289,23989,5372560406.06,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Alajuela,Orotina,125,126,9047,125,126,9047,1916830416,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Alajuela,Palmares,206,212,19668,206,212,19668,4652371601,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Alajuela,Poás,206,213,17255,206,213,17255,4031885695,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Alajuela,San Carlos,912,913,64260,912,913,64260,13611754693,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Alajuela,San Mateo,75,75,5778,75,75,5778,1243726918,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Alajuela,San Ramón,680,686,50197,680,686,50197,11449136403,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Alajuela,Upala,492,493,23842,492,493,23842,4449908534,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Alajuela,Valverde Vega,101,106,8091,101,106,8091,1943347162,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Alajuela,Zarcero,34,34,3234,34,34,3234,759534400,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Cartago,Alvarado,124,125,6713,124,125,6713,1288536392,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Cartago,Cartago,897,1044,102075,897,1044,102075,25641233667.1,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Cartago,El Guarco,178,205,21926,178,205,21926,5442667695,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Cartago,Jiménez,125,125,6196,125,125,6196,1105935579,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Cartago,La Unión,284,509,62423,284,509,62423,16648252861,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Cartago,Oreamuno,192,208,18995,192,208,18995,4572250237,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Cartago,Paraíso,271,274,19973,271,274,19973,4341368179,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Cartago,Turrialba,303,395,23324,303,395,23324,4938838579,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Guanacaste,Abangares,100,100,5137,100,100,5137,1070171989,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Guanacaste,Bagaces,95,101,5363,95,101,5363,1023397187,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Guanacaste,Carrillo,211,227,20772,211,227,20772,5386854459,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Guanacaste,Cañas,86,86,5328,86,86,5328,1189537020,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Guanacaste,Hojancha,63,63,4286,63,63,4286,934835011,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Guanacaste,La Cruz,161,178,10074,161,178,10074,2008601484,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Guanacaste,Liberia,181,181,15696,181,181,15696,4009677248,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Guanacaste,Nandayure,77,77,5317,77,77,5317,1161126117.61,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Guanacaste,Nicoya,309,323,26984,309,323,26984,6378936430,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Guanacaste,Santa Cruz,452,521,59023,452,521,59023,16663412754,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Guanacaste,Tilarán,123,127,10779,123,127,10779,2365748763,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Heredia,Barva,202,209,26105,202,209,26105,6902848718,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Heredia,Belén,57,81,11420,57,81,11420,3010334100,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Heredia,Flores,83,114,16156,83,114,16156,4404715241,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Heredia,Heredia,403,571,75074,403,571,75074,18787827654,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Heredia,San Isidro,123,138,20486,123,138,20486,5730460280,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Heredia,San Pablo,118,935,101030,118,935,101030,21169691862,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Heredia,San Rafael,265,276,39297,265,276,39297,9483835473,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Heredia,Santa Bárbara,109,115,12312,109,115,12312,2985171661,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Heredia,Santo Domingo,160,221,32693,160,221,32693,9288817297,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Heredia,Sarapiquí,307,307,14576,307,307,14576,2673148132,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Limón,Guácimo,343,343,15508,343,343,15508,2967224667,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Limón,Limón,133,157,10950,133,157,10950,2453554269,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Limón,Matina,173,175,8248,173,175,8248,1582061619,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Limón,Pococí,904,918,51269,904,918,51269,10303834190,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Limón,Siquirres,193,339,16540,193,339,16540,3219582755,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Limón,Talamanca,171,176,11713,171,176,11713,2483065304,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Puntarenas,Buenos Aires,359,359,17293,359,359,17293,3036841547,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Puntarenas,Corredores,276,425,20472,276,425,20472,4207433286,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Puntarenas,Coto Brus,405,405,19989,405,405,19989,3674659189,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Puntarenas,Esparza,114,117,9317,114,117,9317,1988873298,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Puntarenas,Garabito,161,357,50247,161,357,50247,15660915254,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Puntarenas,Golfito,203,213,11464,203,213,11464,2400231070,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Puntarenas,Montes de Oro,68,70,4958,68,70,4958,1211184509,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Puntarenas,Osa,308,323,28859,308,323,28859,7097480711,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Puntarenas,Parrita,129,492,39321,129,492,39321,10781075148,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Puntarenas,Puntarenas,381,449,35115,381,449,35115,8766723590.33,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,Puntarenas,Quepos,85,89,9078,85,89,9078,2141902429,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Acosta,107,107,6213,107,107,6213,1245084605,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Alajuelita,154,619,46967,154,619,46967,16091064231,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Aserrí,163,192,12322,163,192,12322,2608239100,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Curridabat,100,325,54177,100,325,54177,16205277999,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Desamparados,148,159,15691,148,159,15691,3662721530,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Dota,44,48,3093,44,48,3093,603505468,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Escazú,134,684,198407,134,684,198407,36312056151,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Goicoechea,200,271,29987,200,271,29987,7722449601,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,León Cortés,69,69,3842,69,69,3842,730440648,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Montes de Oca,73,554,72704,73,554,72704,18106900000,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Mora,168,292,34048,168,292,34048,7771968733,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Moravia,95,165,21442,95,165,21442,5324159170,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Puriscal,225,227,16021,225,227,16021,3519565195,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Pérez Zeledón,1077,1077,66419,1077,1077,66419,14144556132,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,San José,124,933,140524,124,933,140524,36635984733,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Santa Ana,262,646,133141,262,646,133141,36990922123,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Tarrazú,89,89,5854,89,89,5854,1151662722,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Tibás,49,175,34322,49,175,34322,8127883220,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Turrubares,53,53,3341,53,53,3341,649343564,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Cantón,San José,Vázquez de Coronado,67,67,9984,67,67,9984,2641698711,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Costa Rica,NA,NA,18606,25150,2486855,18606,25150,2486855,597996465771.1,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Provincia,Alajuela,NA,4740,5155,438482,4740,5155,438482,103166107230.06,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Provincia,Cartago,NA,2374,2885,261625,2374,2885,261625,63979083189.1,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Provincia,Guanacaste,NA,1858,1984,168759,1858,1984,168759,42192298462.61,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Provincia,Heredia,NA,1827,2967,349149,1827,2967,349149,84436850418,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Provincia,Limón,NA,1917,2108,114228,1917,2108,114228,23009322804,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Provincia,Puntarenas,NA,2489,3299,246113,2489,3299,246113,60967320031.33,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2015,Provincia,San José,NA,3401,6752,908499,3401,6752,908499,220245483636,reeconomestconstru2015-04_2.xlsx,0,0,0,OK
+2016,Cantón,Alajuela,Alajuela,673,1973,215076,673,1973,215076,61225429699,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Alajuela,Atenas,166,176,19363,166,176,19363,4521048723,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Alajuela,Grecia,440,441,44787,440,441,44787,10890761211,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Alajuela,Guatuso,93,93,4227,93,93,4227,831420179,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Alajuela,Los Chiles,122,166,8010,122,166,8010,1292199070,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Alajuela,Naranjo,214,214,17152,214,214,17152,3998909870,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Alajuela,Orotina,143,143,11061,143,143,11061,2425386817,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Alajuela,Palmares,164,170,16238,164,170,16238,3841443426,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Alajuela,Poás,233,246,19633,233,246,19633,4559054732,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Alajuela,San Carlos,1154,1158,79148,1154,1158,79148,16336470653,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Alajuela,San Mateo,81,81,5884,81,81,5884,1245746351,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Alajuela,San Ramón,781,809,61094,781,809,61094,14487997818,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Alajuela,Upala,458,459,20665,458,459,20665,3463529818,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Alajuela,Valverde Vega,122,124,8202,122,124,8202,1886497949,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Alajuela,Zarcero,68,76,7456,68,76,7456,1711945483,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Cartago,Alvarado,127,127,6978,127,127,6978,1288873208,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Cartago,Cartago,1049,1332,123397,1049,1332,123397,31713472342,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Cartago,El Guarco,152,166,16168,152,166,16168,4100755484,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Cartago,Jiménez,134,134,7112,134,134,7112,1342742801,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Cartago,La Unión,222,441,54178,222,441,54178,14202831973,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Cartago,Oreamuno,178,185,15780,178,185,15780,3636637489,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Cartago,Paraíso,261,280,20536,261,280,20536,4506290148,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Cartago,Turrialba,328,328,19735,328,328,19735,3762814626,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Guanacaste,Abangares,109,109,5201,109,109,5201,983750824,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Guanacaste,Bagaces,97,246,19309,97,246,19309,3156185637,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Guanacaste,Carrillo,269,275,21659,269,275,21659,5173758752,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Guanacaste,Cañas,90,91,5528,90,91,5528,1159558919,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Guanacaste,Hojancha,86,87,6283,86,87,6283,1376842098,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Guanacaste,La Cruz,197,203,9818,197,203,9818,1764560352,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Guanacaste,Liberia,233,270,20428,233,270,20428,6308521047,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Guanacaste,Nandayure,123,123,7421,123,123,7421,1449246037,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Guanacaste,Nicoya,306,325,33434,306,325,33434,8093737769,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Guanacaste,Santa Cruz,436,612,96347,436,612,96347,21393369912,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Guanacaste,Tilarán,115,115,10418,115,115,10418,2217370341,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Heredia,Barva,181,184,26744,181,184,26744,6671681481,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Heredia,Belén,45,68,9666,45,68,9666,2861032800,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Heredia,Flores,68,93,11833,68,93,11833,3135862680,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Heredia,Heredia,504,1162,157419,504,1162,157419,41264692902,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Heredia,San Isidro,108,113,20058,108,113,20058,5119198000,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Heredia,San Pablo,149,428,45744,149,428,45744,12689276200,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Heredia,San Rafael,261,267,42480,261,267,42480,10090593561,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Heredia,Santa Bárbara,135,199,18430,135,199,18430,4356446520,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Heredia,Santo Domingo,282,318,52848,282,318,52848,13945410042,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Heredia,Sarapiquí,386,386,18090,386,386,18090,3175779943,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Limón,Guácimo,340,341,15196,340,341,15196,2513120090,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Limón,Limón,143,179,13339,143,179,13339,2974894254,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Limón,Matina,188,188,8697,188,188,8697,1512111786,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Limón,Pococí,1013,1028,57039,1013,1028,57039,11036348142,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Limón,Siquirres,221,286,15051,221,286,15051,2958926579,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Limón,Talamanca,254,263,17746,254,263,17746,3863666459,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Puntarenas,Buenos Aires,325,325,14597,325,325,14597,2522674495,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Puntarenas,Corredores,226,254,13428,226,254,13428,2818977077,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Puntarenas,Coto Brus,273,273,13487,273,273,13487,2366270256,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Puntarenas,Esparza,160,160,12060,160,160,12060,2563031003,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Puntarenas,Garabito,209,278,46863,209,278,46863,13006453322,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Puntarenas,Golfito,327,329,21268,327,329,21268,4397940128,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Puntarenas,Montes de Oro,60,61,3434,60,61,3434,759045622,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Puntarenas,Osa,377,439,48422,377,439,48422,11851228558,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Puntarenas,Parrita,144,150,10923,144,150,10923,2329833968,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Puntarenas,Puntarenas,445,556,41322,445,556,41322,10285238725,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,Puntarenas,Quepos,71,76,7445,71,76,7445,1787875156,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Acosta,147,152,8428,147,152,8428,1663190076,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Alajuelita,193,2193,136767,193,2193,136767,55364034913,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Aserrí,130,130,9453,130,130,9453,2121021187,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Curridabat,106,300,59127,106,300,59127,17356380630,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Desamparados,283,291,33979,283,291,33979,8286027807,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Dota,60,62,4412,60,62,4412,839309397,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Escazú,101,368,121332,101,368,121332,24431508041,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Goicoechea,157,175,22193,157,175,22193,5620633195,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,León Cortés,57,57,3151,57,57,3151,635547536,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Montes de Oca,85,339,44373,85,339,44373,10069758750,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Mora,135,168,18704,135,168,18704,4751386632,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Moravia,110,142,19469,110,142,19469,4663941897,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Puriscal,245,256,17448,245,256,17448,3720514700,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Pérez Zeledón,1429,1429,80539,1429,1429,80539,15971471297,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,San José,112,484,56828,112,484,56828,15342327807,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Santa Ana,196,624,124634,196,624,124634,33842888257,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Tarrazú,114,114,7594,114,114,7594,1483680061,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Tibás,56,152,17093,56,152,17093,4449595025,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Turrubares,43,43,2565,43,43,2565,489013351,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Cantón,San José,Vázquez de Coronado,66,68,8781,66,68,8781,2309105255,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Costa Rica,NA,NA,20144,27729,2598225,20144,27729,2598225,646618107121,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Provincia,Alajuela,NA,4912,6329,537996,4912,6329,537996,132717841799,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Provincia,Cartago,NA,2451,2993,263884,2451,2993,263884,64554418071,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Provincia,Guanacaste,NA,2061,2456,235846,2061,2456,235846,53076901688,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Provincia,Heredia,NA,2119,3218,403312,2119,3218,403312,103309974129,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Provincia,Limón,NA,2159,2285,127068,2159,2285,127068,24859067310,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Provincia,Puntarenas,NA,2617,2901,233249,2617,2901,233249,54688568310,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2016,Provincia,San José,NA,3825,7547,796870,3825,7547,796870,213411335814,reeconomestconstru2016-04_0_2.xlsx,0,0,0,OK
+2017,Cantón,Alajuela,Alajuela,490,819,102073,490,819,102073,28729259945,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Alajuela,Atenas,88,89,9224,88,89,9224,2187670359,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Alajuela,Grecia,417,420,42609,417,420,42609,10807640595,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Alajuela,Guatuso,74,74,4027,74,74,4027,766482105,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Alajuela,Los Chiles,125,125,5954,125,125,5954,999387178,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Alajuela,Naranjo,195,201,15758,195,201,15758,3731858246,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Alajuela,Orotina,127,128,9024,127,128,9024,1752467705,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Alajuela,Palmares,153,171,16726,153,171,16726,4173581148,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Alajuela,Poás,172,195,14209,172,195,14209,3447341194,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Alajuela,San Carlos,1145,1151,78632,1145,1151,78632,16684619179,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Alajuela,San Mateo,107,107,7883,107,107,7883,1647647853,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Alajuela,San Ramón,550,603,46502,550,603,46502,11807669146,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Alajuela,Upala,452,455,22901,452,455,22901,4074593700,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Alajuela,Valverde Vega,108,111,8692,108,111,8692,2106928760,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Alajuela,Zarcero,56,56,4936,56,56,4936,1220127967,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Cartago,Alvarado,99,99,5497,99,99,5497,1022303702,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Cartago,Cartago,786,1111,123111,786,1111,123111,31373989379,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Cartago,El Guarco,109,157,17258,109,157,17258,4183063031,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Cartago,Jiménez,88,89,4991,88,89,4991,870781234,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Cartago,La Unión,256,424,62425,256,424,62425,16042535474,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Cartago,Oreamuno,150,158,13557,150,158,13557,3081202894,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Cartago,Paraíso,232,237,18627,232,237,18627,4184200056,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Cartago,Turrialba,303,307,18217,303,307,18217,3450352265,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Guanacaste,Abangares,93,93,4999,93,93,4999,971439200,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Guanacaste,Bagaces,83,87,4737,83,87,4737,911393911,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Guanacaste,Carrillo,197,331,23579,197,331,23579,5776931573,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Guanacaste,Cañas,78,78,4626,78,78,4626,952893248,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Guanacaste,Hojancha,76,77,7753,76,77,7753,1855400390,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Guanacaste,La Cruz,135,142,7051,135,142,7051,1254868755,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Guanacaste,Liberia,164,165,13165,164,165,13165,3368897312,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Guanacaste,Nandayure,47,47,2691,47,47,2691,457199386,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Guanacaste,Nicoya,315,317,29457,315,317,29457,6947842757,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Guanacaste,Santa Cruz,517,563,68915,517,563,68915,20683642302,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Guanacaste,Tilarán,231,236,13858,231,236,13858,2716062889,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Heredia,Barva,132,141,16498,132,141,16498,4311750941,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Heredia,Belén,67,97,14021,67,97,14021,4013416800,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Heredia,Flores,61,81,9652,61,81,9652,2600462541,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Heredia,Heredia,326,704,83215,326,704,83215,21782284795,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Heredia,San Isidro,89,97,15380,89,97,15380,4461375805,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Heredia,San Pablo,129,283,33945,129,283,33945,9396583850,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Heredia,San Rafael,173,186,24164,173,186,24164,5867021630,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Heredia,Santa Bárbara,76,90,7368,76,90,7368,1901138817,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Heredia,Santo Domingo,241,358,50364,241,358,50364,12655366077,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Heredia,Sarapiquí,497,500,24092,497,500,24092,4057086838,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Limón,Guácimo,367,368,16737,367,368,16737,2812958361,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Limón,Limón,161,272,19333,161,272,19333,3398151419,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Limón,Matina,159,161,7292,159,161,7292,1231648124,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Limón,Pococí,989,1001,55576,989,1001,55576,10690096716,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Limón,Siquirres,199,200,9968,199,200,9968,1800249583,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Limón,Talamanca,163,166,11008,163,166,11008,2151491992,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Puntarenas,Buenos Aires,324,324,14822,324,324,14822,2523902327,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Puntarenas,Corredores,175,176,8891,175,176,8891,1686799917,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Puntarenas,Coto Brus,353,355,19878,353,355,19878,3498477684,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Puntarenas,Esparza,105,107,8030,105,107,8030,1728889235,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Puntarenas,Garabito,188,948,82758,188,948,82758,15772446197,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Puntarenas,Golfito,219,223,11627,219,223,11627,2182333696,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Puntarenas,Montes de Oro,73,74,5169,73,74,5169,1288327504,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Puntarenas,Osa,376,380,37724,376,380,37724,9992213362,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Puntarenas,Parrita,113,118,7674,113,118,7674,1626402773,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Puntarenas,Puntarenas,335,351,24975,335,351,24975,6494505767,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,Puntarenas,Quepos,73,77,7855,73,77,7855,1862282365,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Acosta,121,121,6477,121,121,6477,1251364223,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Alajuelita,104,362,24071,104,362,24071,8676944857,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Aserrí,111,112,7491,111,112,7491,1715372686,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Curridabat,60,199,28252,60,199,28252,11481779578,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Desamparados,175,178,16167,175,178,16167,3786703468,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Dota,69,69,4795,69,69,4795,974389505,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Escazú,89,576,94931,89,576,94931,20195846493,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Goicoechea,94,109,12973,94,109,12973,3124670205,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,León Cortés,53,53,3142,53,53,3142,608278718,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Montes de Oca,88,496,60499,88,496,60499,15996883000,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Mora,145,380,45021,145,380,45021,9467521763,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Moravia,60,97,12958,60,97,12958,3325105293,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Puriscal,204,206,14212,204,206,14212,3218782800,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Pérez Zeledón,1395,1395,83957,1395,1395,83957,16066091017,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,San José,89,545,57599,89,545,57599,18808856085,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Santa Ana,163,515,101751,163,515,101751,28875172726,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Tarrazú,84,84,5357,84,84,5357,1064870477,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Tibás,48,257,56674,48,257,56674,13817077959,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Turrubares,49,49,3440,49,49,3440,697558645,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Cantón,San José,Vázquez de Coronado,53,54,9156,53,54,9156,2382677576,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Costa Rica,NA,NA,17635,23118,2110603,17635,23118,2110603,511565887028,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Provincia,Alajuela,NA,4259,4705,389150,4259,4705,389150,94137275080,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Provincia,Cartago,NA,2023,2582,263683,2023,2582,263683,64208428035,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Provincia,Guanacaste,NA,1936,2136,180831,1936,2136,180831,45896571723,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Provincia,Heredia,NA,1791,2537,278699,1791,2537,278699,71046488094,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Provincia,Limón,NA,2038,2168,119914,2038,2168,119914,22084596195,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Provincia,Puntarenas,NA,2334,3133,229403,2334,3133,229403,48656580827,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2017,Provincia,San José,NA,3254,5857,648923,3254,5857,648923,165535947074,reecocomestconstru2017-04_2.xlsx,0,0,0,OK
+2018,Cantón,Alajuela,Alajuela,508,800,104544,508,800,104544,31603230793,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Alajuela,Atenas,102,106,12305,102,106,12305,3158502338,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Alajuela,Grecia,552,565,56673,552,565,56673,15244711422,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Alajuela,Guatuso,79,81,4639,79,81,4639,873656985,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Alajuela,Los Chiles,135,136,6245,135,136,6245,1110967633,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Alajuela,Naranjo,205,208,16388,205,208,16388,4123599876.79,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Alajuela,Orotina,213,213,11936,213,213,11936,2442237737,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Alajuela,Palmares,159,169,16153,159,169,16153,4067754732,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Alajuela,Poás,137,151,11484,137,151,11484,2982862103,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Alajuela,San Carlos,1321,1380,86195,1321,1380,86195,18766019993,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Alajuela,San Mateo,112,112,9434,112,112,9434,2008716472,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Alajuela,San Ramón,617,652,48546,617,652,48546,12453442367,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Alajuela,Upala,501,559,35862,501,559,35862,6189179773,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Alajuela,Valverde Vega,97,100,6655,97,100,6655,1641007825,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Alajuela,Zarcero,72,82,5961,72,82,5961,1492325554,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Cartago,Alvarado,90,96,5211,90,96,5211,1049646679,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Cartago,Cartago,403,465,47758,403,465,47758,12157419136,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Cartago,El Guarco,154,207,20223,154,207,20223,4697327690,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Cartago,Jiménez,98,245,11293,98,245,11293,2190040593,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Cartago,La Unión,266,378,49976,266,378,49976,14859885659,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Cartago,Oreamuno,147,165,13104,147,165,13104,3173165139,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Cartago,Paraíso,241,241,20880,241,241,20880,5020812493,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Cartago,Turrialba,266,267,16889,266,267,16889,3575274993,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Guanacaste,Abangares,79,79,4092,79,79,4092,811261897,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Guanacaste,Bagaces,72,72,4539,72,72,4539,959169185,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Guanacaste,Carrillo,174,429,34810,174,429,34810,8199787180,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Guanacaste,Cañas,98,98,6085,98,98,6085,1337077374,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Guanacaste,Hojancha,96,97,8438,96,97,8438,2523350623,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Guanacaste,La Cruz,155,160,8058,155,160,8058,1540770859,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Guanacaste,Liberia,176,205,33759,176,205,33759,13153403114,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Guanacaste,Nandayure,81,81,5085,81,81,5085,1079866587,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Guanacaste,Nicoya,344,349,34416,344,349,34416,8766199640,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Guanacaste,Santa Cruz,509,660,79176,509,660,79176,23910477904,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Guanacaste,Tilarán,98,103,8840,98,103,8840,1995522115,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Heredia,Barva,138,150,18385,138,150,18385,4766482518,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Heredia,Belén,58,126,16515,58,126,16515,4944881800,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Heredia,Flores,49,62,7226,49,62,7226,2089771277,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Heredia,Heredia,280,371,46494,280,371,46494,13776094834,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Heredia,San Isidro,76,84,11722,76,84,11722,3160180219,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Heredia,San Pablo,114,159,15862,114,159,15862,4484578137,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Heredia,San Rafael,195,208,28334,195,208,28334,7553194791,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Heredia,Santa Bárbara,79,88,9909,79,88,9909,2645528442,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Heredia,Santo Domingo,186,452,66486,186,452,66486,17827093520,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Heredia,Sarapiquí,450,459,22513,450,459,22513,3991912106,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Limón,Guácimo,440,440,20050,440,440,20050,3654169673,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Limón,Limón,181,194,12417,181,194,12417,2958133158,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Limón,Matina,244,244,11075,244,244,11075,2007621888,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Limón,Pococí,870,887,48762,870,887,48762,9855952494,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Limón,Siquirres,216,216,10273,216,216,10273,1865880612,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Limón,Talamanca,192,194,13983,192,194,13983,3199920279,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Puntarenas,Buenos Aires,281,281,13381,281,281,13381,2397807717,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Puntarenas,Corredores,255,256,12813,255,256,12813,2386824356,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Puntarenas,Coto Brus,530,530,26350,530,530,26350,4807617066,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Puntarenas,Esparza,123,129,9320,123,129,9320,2126232488,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Puntarenas,Garabito,168,274,30761,168,274,30761,9092311558,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Puntarenas,Golfito,284,288,14083,284,288,14083,2739721582,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Puntarenas,Montes de Oro,61,61,4033,61,61,4033,995323408,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Puntarenas,Osa,389,395,41931,389,395,41931,11230270536,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Puntarenas,Parrita,93,99,7138,93,99,7138,1638794689,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Puntarenas,Puntarenas,437,497,39839,437,497,39839,10961614801,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,Puntarenas,Quepos,117,130,9955,117,130,9955,2560748229,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Acosta,101,102,5696,101,102,5696,1135562393,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Alajuelita,115,289,24735,115,289,24735,6784643797,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Aserrí,119,121,7263,119,121,7263,1590264930,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Curridabat,97,251,30120,97,251,30120,8260501420,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Desamparados,157,169,15681,157,169,15681,3683880862,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Dota,61,62,4024,61,62,4024,881604243,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Escazú,107,598,99471,107,598,99471,31521482345,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Goicoechea,88,202,20989,88,202,20989,5930244303,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,León Cortés,61,61,4342,61,61,4342,923239174,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Montes de Oca,80,154,19544,80,154,19544,5879342400,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Mora,150,172,16106,150,172,16106,3882146297,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Moravia,56,124,11614,56,124,11614,11778060991,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Puriscal,132,132,8361,132,132,8361,1654815000,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Pérez Zeledón,1315,1338,81086,1315,1338,81086,16819437895,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,San José,94,492,77425,94,492,77425,11958302760,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Santa Ana,150,373,65627,150,373,65627,21464356310,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Tarrazú,91,97,6659,91,97,6659,1475938702,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Tibás,47,82,8092,47,82,8092,2193113062,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Turrubares,36,36,2485,36,36,2485,549264420,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Cantón,San José,Vázquez de Coronado,42,42,5644,42,42,5644,1609167757,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Costa Rica,NA,NA,17962,21882,1930226,17962,21882,1930226,498852705702.79,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Provincia,Alajuela,NA,4810,5314,433020,4810,5314,433020,108158215603.79,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Provincia,Cartago,NA,1665,2064,185334,1665,2064,185334,46723572382,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Provincia,Guanacaste,NA,1882,2333,227298,1882,2333,227298,64276886478,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Provincia,Heredia,NA,1625,2159,243446,1625,2159,243446,65239717644,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Provincia,Limón,NA,2143,2175,116560,2143,2175,116560,23541678104,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Provincia,Puntarenas,NA,2738,2940,209604,2738,2940,209604,50937266430,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2018,Provincia,San José,NA,3099,4897,514964,3099,4897,514964,139975369061,reeconomestconstru2018-04_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,Alajuela,888,1105,170788,888,1105,170788,58607421021,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,Atenas,116,118,11626,116,118,11626,3287384221.88,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,Grecia,362,372,74317,362,372,74317,15448744655.52,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,Guatuso,80,80,3779,80,80,3779,755605995,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,Los Chiles,185,185,9307,185,185,9307,1870108547,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,Naranjo,255,257,20836,255,257,20836,5808710278.19,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,Orotina,135,136,8495,135,136,8495,2124551512,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,Palmares,198,219,24075,198,219,24075,6441246782.05,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,Poás,104,113,8549,104,113,8549,2467985029,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,Río Cuarto,43,43,2124,43,43,2124,473039631,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,San Carlos,1586,1602,99389,1586,1602,99389,23337479777.7,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,San Mateo,119,119,10423,119,119,10423,2038419827,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,San Ramón,623,635,49358,623,635,49358,13678794653.71,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,Upala,622,623,29599,622,623,29599,5758881022,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,Valverde Vega,164,171,11652,164,171,11652,3170424342.78,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Alajuela,Zarcero,69,69,5036,69,69,5036,1345158157,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Cartago,Alvarado,79,80,4709,79,80,4709,7825197215,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Cartago,Cartago,571,688,75267,571,688,75267,19527065212.09,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Cartago,El Guarco,142,157,37121,142,157,37121,6124746819,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Cartago,Jiménez,127,127,6501,127,127,6501,1948338734,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Cartago,La Unión,291,316,51750,291,316,51750,16774978457,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Cartago,Oreamuno,147,152,14244,147,152,14244,3730992923.32,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Cartago,Paraíso,163,163,11869,163,163,11869,3000767992.81,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Cartago,Turrialba,507,507,29632,507,507,29632,6661232914.06,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Guanacaste,Abangares,126,146,9935,126,146,9935,2031423453,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Guanacaste,Bagaces,112,112,6136,112,112,6136,1370141269.51,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Guanacaste,Carrillo,315,321,34054,315,321,34054,9978142199,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Guanacaste,Cañas,105,105,6837,105,105,6837,1711774920.58,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Guanacaste,Hojancha,160,161,11721,160,161,11721,3037753653,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Guanacaste,La Cruz,187,200,15836,187,200,15836,4430052169,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Guanacaste,Liberia,271,405,42424,271,405,42424,17250028749,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Guanacaste,Nandayure,114,114,7179,114,114,7179,1586483258.65,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Guanacaste,Nicoya,506,532,48903,506,532,48903,12859624925.93,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Guanacaste,Santa Cruz,482,510,70652,482,510,70652,22281604964,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Guanacaste,Tilarán,116,117,9989,116,117,9989,2603128136,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Heredia,Barva,194,198,25260,194,198,25260,7560186098,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Heredia,Belén,65,127,19206,65,127,19206,6370926173,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Heredia,Flores,77,204,28890,77,204,28890,8923501923,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Heredia,Heredia,144,178,25371,144,178,25371,8640476139,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Heredia,San Isidro,71,77,12663,71,77,12663,3765677329,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Heredia,San Pablo,84,232,13698,84,232,13698,6938504945,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Heredia,San Rafael,133,136,20243,133,136,20243,6021713413,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Heredia,Santa Bárbara,99,103,11896,99,103,11896,3656007116.75,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Heredia,Santo Domingo,230,1186,191774,230,1186,191774,40416500495,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Heredia,Sarapiquí,494,494,23403,494,494,23403,4606365828,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Limón,Guácimo,293,294,13705,293,294,13705,2540415061.18,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Limón,Limón,326,330,22752,326,330,22752,5582056649,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Limón,Matina,231,231,10171,231,231,10171,1952030982,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Limón,Pococí,906,928,50142,906,928,50142,10710749381,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Limón,Siquirres,223,223,10261,223,223,10261,1997873619.83,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Limón,Talamanca,282,282,20810,282,282,20810,5161025828,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Puntarenas,Buenos Aires,356,356,15974,356,356,15974,2978117919.31,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Puntarenas,Corredores,395,395,19918,395,395,19918,4094836723.74,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Puntarenas,Coto Brus,663,668,32175,663,668,32175,10112913272.63,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Puntarenas,Esparza,124,127,12739,124,127,12739,2565487199,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Puntarenas,Garabito,202,221,29077,202,221,29077,9994038078,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Puntarenas,Golfito,329,330,16528,329,330,16528,3452508595.95,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Puntarenas,Montes de Oro,68,69,4360,68,69,4360,1216339975,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Puntarenas,Osa,378,379,35738,378,379,35738,11020469841,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Puntarenas,Parrita,243,245,13053,243,245,13053,2826012573.54,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Puntarenas,Puntarenas,625,760,60449,625,760,60449,71484508542.29,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,Puntarenas,Quepos,155,157,12883,155,157,12883,3496510106,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Acosta,167,169,8352,167,169,8352,1657777370.08,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Alajuelita,164,236,23116,164,236,23116,8745737335,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Aserrí,216,216,15050,216,216,15050,4102689075.76,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Curridabat,61,91,23410,61,91,23410,7485813642,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Desamparados,131,154,15549,131,154,15549,4183132238,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Dota,59,62,5947,59,62,5947,1464206118,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Escazú,119,153,46894,119,153,46894,18200853524,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Goicoechea,109,251,34547,109,251,34547,10361917059.04,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,León Cortés,45,46,3010,45,46,3010,602509955,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Montes de Oca,66,70,10025,66,70,10025,8328920473,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Mora,161,176,17995,161,176,17995,5181243595,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Moravia,43,52,12359,43,52,12359,3781662695,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Puriscal,128,128,8740,128,128,8740,2078858180,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Pérez Zeledón,1935,1955,114082,1935,1955,114082,25866018840.39,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,San José,88,129,29156,88,129,29156,8762938981,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Santa Ana,134,255,106604,134,255,106604,32481400167,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Tarrazú,83,87,5903,83,87,5903,1454366398,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Tibás,45,45,4643,45,45,4643,1056242924,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Turrubares,84,84,4586,84,84,4586,994329992,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Cantón,San José,Vázquez de Coronado,80,82,12514,80,82,12514,3830358804,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Costa Rica,NA,NA,21378,24131,2289733,21378,24131,2289733,690054164591.27,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Provincia,Alajuela,NA,5549,5847,539353,5549,5847,539353,146613955452.83,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Provincia,Cartago,NA,2027,2190,231093,2027,2190,231093,65593320267.28,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Provincia,Guanacaste,NA,2494,2723,263666,2494,2723,263666,79140157697.67,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Provincia,Heredia,NA,1591,2935,372404,1591,2935,372404,96899859459.75,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Provincia,Limón,NA,2261,2288,127841,2261,2288,127841,27944151521.01,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Provincia,Puntarenas,NA,3538,3707,252894,3538,3707,252894,123241742826.46,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2019,Provincia,San José,NA,3918,4441,502482,3918,4441,502482,150620977366.27,reconstru-vivgruparea-anual2019_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,Alajuela,490,940,91237,490,940,91237,29856232558,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,Atenas,157,180,17139,157,180,17139,4949208700,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,Grecia,566,606,65708,566,606,65708,20031330502,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,Guatuso,105,106,4963,105,106,4963,1006155512,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,Los Chiles,157,158,7367,157,158,7367,1457698315,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,Naranjo,215,216,16906,215,216,16906,4298064833,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,Orotina,157,161,11441,157,161,11441,2737729064,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,Palmares,147,153,15528,147,153,15528,4304716389,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,Poás,133,142,10505,133,142,10505,2958681147,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,Río Cuarto,34,34,1758,34,34,1758,371594984,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,San Carlos,1092,1143,96722,1092,1143,96722,17990820501,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,San Mateo,87,89,6741,87,89,6741,1642640170,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,San Ramón,486,501,35050,486,501,35050,9519527119,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,Upala,704,840,38583,704,840,38583,7482087073,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,Valverde Vega,85,85,6234,85,85,6234,1655469722,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Alajuela,Zarcero,48,53,4731,48,53,4731,1329586121,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Cartago,Alvarado,60,60,3558,60,60,3558,801101245,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Cartago,Cartago,519,529,110387,519,529,110387,28517788543,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Cartago,El Guarco,108,145,15003,108,145,15003,4180732532,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Cartago,Jiménez,73,73,3673,73,73,3673,761524503,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Cartago,La Unión,171,461,78212,171,461,78212,22987025176,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Cartago,Oreamuno,87,96,8197,87,96,8197,2237164752,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Cartago,Paraíso,228,235,17543,228,235,17543,4516673889,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Cartago,Turrialba,295,296,17244,295,296,17244,3655893268,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Guanacaste,Abangares,101,101,5149,101,101,5149,1099923149,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Guanacaste,Bagaces,286,286,14029,286,286,14029,2707373012,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Guanacaste,Carrillo,219,239,25100,219,239,25100,7114014931,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Guanacaste,Cañas,76,77,4690,76,77,4690,1118035531,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Guanacaste,Hojancha,63,65,5233,63,65,5233,1453746016,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Guanacaste,La Cruz,150,166,8199,150,166,8199,1763560014,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Guanacaste,Liberia,136,148,16602,136,148,16602,4973027932,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Guanacaste,Nandayure,106,106,6723,106,106,6723,1567399104,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Guanacaste,Nicoya,422,438,41390,422,438,41390,10169051247,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Guanacaste,Santa Cruz,482,630,75669,482,630,75669,24446235850,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Guanacaste,Tilarán,115,117,8771,115,117,8771,2128211265,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Heredia,Barva,121,135,16292,121,135,16292,4757884996,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Heredia,Belén,35,193,38720,35,193,38720,12883917855,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Heredia,Flores,44,304,40033,44,304,40033,9104628710,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Heredia,Heredia,116,141,21385,116,141,21385,7137180546,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Heredia,San Isidro,86,93,12448,86,93,12448,3902908100,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Heredia,San Pablo,52,146,16692,52,146,16692,4635105432,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Heredia,San Rafael,178,185,58687,178,185,58687,12770023386,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Heredia,Santa Bárbara,107,114,12593,107,114,12593,3771184243,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Heredia,Santo Domingo,118,127,16209,118,127,16209,5007213826,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Heredia,Sarapiquí,439,442,21753,439,442,21753,4233532956,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Limón,Guácimo,363,369,17138,363,369,17138,3291502012,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Limón,Limón,256,258,13643,256,258,13643,3070030398,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Limón,Matina,210,211,9738,210,211,9738,2030041365,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Limón,Pococí,1102,1118,61538,1102,1118,61538,12572456519,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Limón,Siquirres,276,277,13849,276,277,13849,2722919924,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Limón,Talamanca,394,409,24332,394,409,24332,5638587644,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Puntarenas,Buenos Aires,262,262,12973,262,262,12973,2611107296,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Puntarenas,Corredores,146,146,7582,146,146,7582,1570670879,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Puntarenas,Coto Brus,373,373,19061,373,373,19061,3686301419,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Puntarenas,Esparza,152,197,13826,152,197,13826,3737474909,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Puntarenas,Garabito,161,193,33782,161,193,33782,10598373302,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Puntarenas,Golfito,303,314,35140,303,314,35140,11227294149,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Puntarenas,Montes de Oro,68,72,4665,68,72,4665,1227612362,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Puntarenas,Osa,390,402,38550,390,402,38550,9904079756,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Puntarenas,Parrita,120,121,16959,120,121,16959,4327104528,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Puntarenas,Puntarenas,368,423,35579,368,423,35579,10090289539,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,Puntarenas,Quepos,163,166,17426,163,166,17426,4801507241,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Acosta,97,97,5527,97,97,5527,1205468329,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Alajuelita,127,143,13918,127,143,13918,4236305776,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Aserrí,115,116,9768,115,116,9768,2518027595,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Curridabat,70,175,55061,70,175,55061,18711392158,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Desamparados,146,233,22594,146,233,22594,6211582368,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Dota,69,70,5149,69,70,5149,1312282455,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Escazú,99,115,52916,99,115,52916,17781371739,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Goicoechea,72,122,28688,72,122,28688,7034747322,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,León Cortés,40,41,2607,40,41,2607,657773782,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Montes de Oca,42,149,17910,42,149,17910,5069852374,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Mora,76,80,8088,76,80,8088,2393254989,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Moravia,40,483,62755,40,483,62755,16817145408,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Puriscal,123,123,8117,123,123,8117,1935661226,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Pérez Zeledón,1117,1133,68400,1117,1133,68400,14891459075,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,San José,67,122,113844,67,122,113844,39789789935,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Santa Ana,130,597,74101,130,597,74101,24476452270,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Tarrazú,99,99,6555,99,99,6555,1595369105,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Tibás,11,14,37406,11,14,37406,11151561574,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Turrubares,59,59,3442,59,59,3442,763794114,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Cantón,San José,Vázquez de Coronado,47,48,6439,47,48,6439,1908390173,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Costa Rica,NA,NA,17409,20885,2129863,17409,20885,2129863,579562639728,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Provincia,Alajuela,NA,4663,5407,430613,4663,5407,430613,111591542710,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Provincia,Cartago,NA,1541,1895,253817,1541,1895,253817,67657903908,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Provincia,Guanacaste,NA,2156,2373,211555,2156,2373,211555,58540578051,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Provincia,Heredia,NA,1296,1880,254812,1296,1880,254812,68203580050,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Provincia,Limón,NA,2601,2642,140238,2601,2642,140238,29325537862,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Provincia,Puntarenas,NA,2506,2669,235543,2506,2669,235543,63781815380,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2020,Provincia,San José,NA,2646,4019,603285,2646,4019,603285,180461681767,reconstru-vivgruparea-anual2020_2.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,Alajuela,740,1313,156473,740,1313,156473,49835145114,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,Atenas,268,270,26895,268,270,26895,8028412105,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,Grecia,644,693,77694,644,693,77694,22916137645,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,Guatuso,143,154,7752,143,154,7752,1579012123,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,Los Chiles,155,155,7309,155,155,7309,1395887772,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,Naranjo,263,267,22091,263,267,22091,6033694989,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,Orotina,185,193,14681,185,193,14681,3670777064,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,Palmares,212,214,21278,212,214,21278,5996408513,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,Poás,202,227,17686,202,227,17686,5252154958,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,Río Cuarto,78,78,5223,78,78,5223,1254118779,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,San Carlos,1108,1121,75704,1108,1121,75704,17752579601,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,San Mateo,124,125,9775,124,125,9775,2496375843,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,San Ramón,577,590,45533,577,590,45533,13397854742,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,Upala,492,494,23972,492,494,23972,4515028043,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,Valverde Vega,137,138,16778,137,138,16778,5122861585,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Alajuela,Zarcero,76,80,6846,76,80,6846,1923259279,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Cartago,Alvarado,86,89,6166,86,89,6166,1401727783,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Cartago,Cartago,692,1035,130003,692,1035,130003,34246884374,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Cartago,El Guarco,235,374,40758,235,374,40758,11701552929,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Cartago,Jiménez,85,87,5198,85,87,5198,1138592652,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Cartago,La Unión,251,377,50877,251,377,50877,14997317937,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Cartago,Oreamuno,157,192,17599,157,192,17599,5169314072,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Cartago,Paraíso,270,283,25097,270,283,25097,6614715436,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Cartago,Turrialba,330,334,21375,330,334,21375,4989809993,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Guanacaste,Abangares,91,91,6712,91,91,6712,1555159453,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Guanacaste,Bagaces,96,97,6069,96,97,6069,1326209437,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Guanacaste,Carrillo,270,280,32679,270,280,32679,10353182899,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Guanacaste,Cañas,72,72,4443,72,72,4443,1038972993,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Guanacaste,Hojancha,76,76,7088,76,76,7088,2169717586,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Guanacaste,La Cruz,149,174,9600,149,174,9600,2196745517,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Guanacaste,Liberia,231,241,27103,231,241,27103,10044363714,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Guanacaste,Nandayure,105,111,9209,105,111,9209,2220396624,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Guanacaste,Nicoya,420,455,47489,420,455,47489,13054805685,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Guanacaste,Santa Cruz,719,766,120551,719,766,120551,41491652583,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Guanacaste,Tilarán,163,165,13534,163,165,13534,3307517346,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Heredia,Barva,136,146,17128,136,146,17128,5011734695,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Heredia,Belén,56,323,47480,56,323,47480,16027430109,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Heredia,Flores,60,65,8860,60,65,8860,2929957013,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Heredia,Heredia,197,389,50381,197,389,50381,16937255486,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Heredia,San Isidro,99,103,18688,99,103,18688,5807824537,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Heredia,San Pablo,60,250,25953,60,250,25953,8706612308,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Heredia,San Rafael,201,215,31891,201,215,31891,9579674700,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Heredia,Santa Bárbara,153,176,22011,153,176,22011,6846288361,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Heredia,Santo Domingo,197,228,34914,197,228,34914,11055459766,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Heredia,Sarapiquí,415,417,23875,415,417,23875,4964317839,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Limón,Guácimo,288,288,13766,288,288,13766,2552525880,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Limón,Limón,271,272,15769,271,272,15769,3798607795,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Limón,Matina,242,253,12467,242,253,12467,2794150928,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Limón,Pococí,887,915,53854,887,915,53854,12050382202,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Limón,Siquirres,234,240,12489,234,240,12489,2654254990,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Limón,Talamanca,396,409,29003,396,409,29003,7268503968,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Puntarenas,Buenos Aires,296,297,15103,296,297,15103,2894714451,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Puntarenas,Corredores,222,222,11897,222,222,11897,2740412506,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Puntarenas,Coto Brus,306,306,18293,306,306,18293,3675488558,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Puntarenas,Esparza,192,210,16052,192,210,16052,4414913949,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Puntarenas,Garabito,240,462,66113,240,462,66113,25958471959,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Puntarenas,Golfito,355,368,23740,355,368,23740,5835412509,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Puntarenas,Montes de Oro,85,94,6066,85,94,6066,1698176519,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Puntarenas,Osa,406,425,46197,406,425,46197,13149143184,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Puntarenas,Parrita,203,208,14836,203,208,14836,3598775267,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Puntarenas,Puntarenas,428,472,38780,428,472,38780,11531368901,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,Puntarenas,Quepos,179,194,20074,179,194,20074,5634509761,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Acosta,93,93,6247,93,93,6247,1536678283,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Alajuelita,113,141,13125,113,141,13125,3963090922,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Aserrí,108,108,9072,108,108,9072,2482263604,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Curridabat,85,411,90867,85,411,90867,25595933947,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Desamparados,171,183,14617,171,183,14617,4012781417,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Dota,75,78,6541,75,78,6541,1675275256,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Escazú,125,256,43397,125,256,43397,15893589721,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Goicoechea,80,230,17303,80,230,17303,5521413822,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,León Cortés,67,67,4358,67,67,4358,1139011386,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Montes de Oca,42,46,7838,42,46,7838,2547163426,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Mora,124,126,14731,124,126,14731,4385795638,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Moravia,64,68,7861,64,68,7861,2371798668,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Puriscal,211,214,17055,211,214,17055,4369910899,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Pérez Zeledón,1137,1155,79960,1137,1155,79960,18322737664,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,San José,55,320,37344,55,320,37344,13420354652,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Santa Ana,191,310,63645,191,310,63645,22145351215,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Tarrazú,117,121,8775,117,121,8775,2279445069,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Tibás,19,30,2860,19,30,2860,825678717,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Turrubares,45,48,3068,45,48,3068,776378505,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Cantón,San José,Vázquez de Coronado,95,95,13763,95,95,13763,4159978691,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Costa Rica,NA,NA,19723,23458,2275347,19723,23458,2275347,657729346811,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Provincia,Alajuela,NA,5404,6112,535690,5404,6112,535690,151169708155,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Provincia,Cartago,NA,2106,2771,297073,2106,2771,297073,80259915176,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Provincia,Guanacaste,NA,2392,2528,284477,2392,2528,284477,88758723837,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Provincia,Heredia,NA,1574,2312,281181,1574,2312,281181,87866554814,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Provincia,Limón,NA,2318,2377,137348,2318,2377,137348,31118425763,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Provincia,Puntarenas,NA,2912,3258,277151,2912,3258,277151,81131387564,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2021,Provincia,San José,NA,3017,4100,462427,3017,4100,462427,137424631502,recoonstru-vivgruparea-anual2021_1.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,Alajuela,642,869,129553,642,869,129553,42464112701,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,Atenas,257,273,28012,257,273,28012,8584021461,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,Grecia,569,745,76348,569,745,76348,24678831568,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,Guatuso,134,134,7399,134,134,7399,1547035330,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,Los Chiles,177,177,8630,177,177,8630,1848117422,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,Naranjo,236,256,22401,236,256,22401,6593854069,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,Orotina,177,190,14138,177,190,14138,3753566606,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,Palmares,157,163,16164,157,163,16164,5041380084,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,Poás,163,176,14201,163,176,14201,4408654792,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,Río Cuarto,46,46,2626,46,46,2626,615092241,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,San Carlos,1103,1155,79136,1103,1155,79136,20594936410,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,San Mateo,163,168,16514,163,168,16514,4868743778,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,San Ramón,516,535,41232,516,535,41232,11949727240,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,Upala,502,502,26405,502,502,26405,5689884713,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,Valverde Vega,88,96,8229,88,96,8229,2560457122,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Alajuela,Zarcero,45,46,4271,45,46,4271,1267820552,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Cartago,Alvarado,73,75,5268,73,75,5268,1417148702,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Cartago,Cartago,480,807,80661,480,807,80661,43079458905,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Cartago,El Guarco,153,304,33972,153,304,33972,10641971887,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Cartago,Jiménez,64,64,4456,64,64,4456,1131976556,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Cartago,La Unión,266,303,47279,266,303,47279,15838545720,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Cartago,Oreamuno,125,169,17261,125,169,17261,5525072143,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Cartago,Paraíso,209,218,18647,209,218,18647,5294053237,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Cartago,Turrialba,236,244,16502,236,244,16502,4124504902,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Guanacaste,Abangares,73,74,3859,73,74,3859,902988507,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Guanacaste,Bagaces,94,94,6078,94,94,6078,1529687443,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Guanacaste,Carrillo,358,542,67507,358,542,67507,22068164895,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Guanacaste,Cañas,85,88,5460,85,88,5460,1231947234,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Guanacaste,Hojancha,130,133,12963,130,133,12963,3760734403,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Guanacaste,La Cruz,118,120,9025,118,120,9025,2896165545,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Guanacaste,Liberia,263,291,33868,263,291,33868,11571890955,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Guanacaste,Nandayure,140,145,12616,140,145,12616,3856320189,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Guanacaste,Nicoya,471,579,70532,471,579,70532,22380942907,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Guanacaste,Santa Cruz,972,1229,214708,972,1229,214708,75012394385,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Guanacaste,Tilarán,181,187,18619,181,187,18619,5564120658,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Heredia,Barva,131,149,18781,131,149,18781,5925289548,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Heredia,Belén,36,53,6158,36,53,6158,2141639953,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Heredia,Flores,54,61,8708,54,61,8708,2835762792,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Heredia,Heredia,160,657,84428,160,657,84428,26513877619,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Heredia,San Isidro,97,111,16415,97,111,16415,5110372557,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Heredia,San Pablo,49,206,23106,49,206,23106,7573570032,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Heredia,San Rafael,200,402,49357,200,402,49357,16790494985,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Heredia,Santa Bárbara,146,157,16541,146,157,16541,5361863056,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Heredia,Santo Domingo,164,176,27279,164,176,27279,9197801838,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Heredia,Sarapiquí,330,333,17755,330,333,17755,3863152832,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Limón,Guácimo,214,215,10488,214,215,10488,2170899821,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Limón,Limón,190,196,13832,190,196,13832,3709075395,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Limón,Matina,149,269,12378,149,269,12378,3077461459,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Limón,Pococí,769,797,46919,769,797,46919,11346967940,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Limón,Siquirres,191,194,10567,191,194,10567,2346015345,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Limón,Talamanca,329,380,29197,329,380,29197,7940419865,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Puntarenas,Buenos Aires,248,250,12834,248,250,12834,2809992856,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Puntarenas,Corredores,240,241,12290,240,241,12290,2673568274,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Puntarenas,Coto Brus,438,443,24403,438,443,24403,5354773754,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Puntarenas,Esparza,172,174,14689,172,174,14689,4314369507,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Puntarenas,Garabito,416,691,94347,416,691,94347,33820089257,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Puntarenas,Golfito,336,349,24730,336,349,24730,6229390999,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Puntarenas,Montes de Oro,95,96,6607,95,96,6607,1852713200,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Puntarenas,Osa,533,598,73007,533,598,73007,22004963462,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Puntarenas,Parrita,192,193,17438,192,193,17438,4824658931,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Puntarenas,Puntarenas,638,723,70962,638,723,70962,21562349816,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,Puntarenas,Quepos,193,227,26704,193,227,26704,7998232250,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Acosta,94,94,5590,94,94,5590,1336754318,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Alajuelita,62,141,14933,62,141,14933,5183083500,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Aserrí,134,134,10482,134,134,10482,3276285292,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Curridabat,66,88,18835,66,88,18835,6488019652,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Desamparados,134,144,12604,134,144,12604,3709363366,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Dota,71,73,5498,71,73,5498,1554635742,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Escazú,140,574,165440,140,574,165440,66581168200,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Goicoechea,81,90,9786,81,90,9786,2989631020,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,León Cortés,41,41,3829,41,41,3829,997999135,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Montes de Oca,45,83,10109,45,83,10109,3330043350,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Mora,120,138,15045,120,138,15045,4711168860,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Moravia,42,44,5388,42,44,5388,1685047679,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Puriscal,191,194,13994,191,194,13994,3720780998,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Pérez Zeledón,1050,1095,74043,1050,1095,74043,18371498563,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,San José,60,887,68106,60,887,68106,25370383639,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Santa Ana,165,806,98576,165,806,98576,33957920461,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Tarrazú,92,94,6774,92,94,6774,1812307336,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Tibás,14,21,2283,14,21,2283,672277252,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Turrubares,66,67,5422,66,67,5422,1455894492,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Cantón,San José,Vázquez de Coronado,71,72,9763,71,72,9763,3144724222,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Costa Rica,NA,NA,18915,24418,2500960,18915,24418,2500960,803993079682,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Provincia,Alajuela,NA,4975,5531,495259,4975,5531,495259,146466236089,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Provincia,Cartago,NA,1606,2184,224046,1606,2184,224046,87052732052,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Provincia,Guanacaste,NA,2885,3482,455235,2885,3482,455235,150775357121,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Provincia,Heredia,NA,1367,2305,268528,1367,2305,268528,85313825212,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Provincia,Limón,NA,1842,2051,123381,1842,2051,123381,30590839825,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Provincia,Puntarenas,NA,3501,3985,378011,3501,3985,378011,113445102306,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2022,Provincia,San José,NA,2739,4880,556500,2739,4880,556500,190348987077,reCONSTRU- VIVGRUPAREA - anual2022.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,Alajuela,535,594,90939,535,594,90939,29705338822,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,Atenas,181,193,21081,181,193,21081,6427394568,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,Grecia,511,612,62768,511,612,62768,20756876132,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,Guatuso,158,184,8673,158,184,8673,1943301909,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,Los Chiles,169,169,8069,169,169,8069,1699959203,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,Naranjo,191,319,24213,191,319,24213,7520572561,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,Orotina,132,138,10938,132,138,10938,3068047412,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,Palmares,140,149,14751,140,149,14751,4673159658,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,Poás,112,123,10423,112,123,10423,3265226401,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,Río Cuarto,60,60,2983,60,60,2983,618099717,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,San Carlos,1077,1146,73766,1077,1146,73766,19132178445,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,San Mateo,125,130,13682,125,130,13682,3932480069,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,San Ramón,485,506,39084,485,506,39084,11302223447,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,Upala,484,484,23560,484,484,23560,4909866172,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,Valverde Vega,74,78,6177,74,78,6177,1812733728,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Alajuela,Zarcero,46,46,4264,46,46,4264,1129706436,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Cartago,Alvarado,71,76,5165,71,76,5165,1293291671,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Cartago,Cartago,410,499,58690,410,499,58690,19137455667,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Cartago,El Guarco,142,184,21365,142,184,21365,6825548706,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Cartago,Jiménez,53,53,3185,53,53,3185,772873631,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Cartago,La Unión,267,381,63536,267,381,63536,21686688738,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Cartago,Oreamuno,82,110,9513,82,110,9513,2903033794,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Cartago,Paraíso,154,161,14721,154,161,14721,4399890082,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Cartago,Turrialba,445,461,28053,445,461,28053,6825750190,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Guanacaste,Abangares,99,104,6297,99,104,6297,1498061432,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Guanacaste,Bagaces,124,131,7300,124,131,7300,1873601555,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Guanacaste,Carrillo,382,571,86514,382,571,86514,29537947485,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Guanacaste,Cañas,67,72,4316,67,72,4316,1090416394,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Guanacaste,Hojancha,124,129,12752,124,129,12752,3850725696,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Guanacaste,La Cruz,133,142,10308,133,142,10308,3024253940,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Guanacaste,Liberia,259,314,37850,259,314,37850,12494606268,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Guanacaste,Nandayure,81,85,8234,81,85,8234,2472375791,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Guanacaste,Nicoya,659,846,115929,659,846,115929,39005429158,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Guanacaste,Santa Cruz,1127,1468,228938,1127,1468,228938,79698278571,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Guanacaste,Tilarán,163,167,16144,163,167,16144,4795049325,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Heredia,Barva,82,87,10127,82,87,10127,3208333478,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Heredia,Belén,44,95,10611,44,95,10611,4108052952,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Heredia,Flores,36,38,5971,36,38,5971,1963996474,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Heredia,Heredia,112,153,22308,112,153,22308,7878830284,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Heredia,San Isidro,62,71,9922,62,71,9922,3321148541,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Heredia,San Pablo,37,87,8324,37,87,8324,3101898379,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Heredia,San Rafael,142,196,25869,142,196,25869,8535454895,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Heredia,Santa Bárbara,90,930,73897,90,930,73897,23307408965,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Heredia,Santo Domingo,117,134,19370,117,134,19370,6478145808,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Heredia,Sarapiquí,470,474,23873,470,474,23873,4907974539,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Limón,Guácimo,281,281,12821,281,281,12821,2572648360,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Limón,Limón,224,237,13180,224,237,13180,3390378527,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Limón,Matina,164,165,8534,164,165,8534,1774918963,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Limón,Pococí,975,1000,52767,975,1000,52767,11795359846,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Limón,Siquirres,237,238,12213,237,238,12213,2631268641,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Limón,Talamanca,351,387,30750,351,387,30750,9486029828,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Puntarenas,Buenos Aires,283,283,14161,283,283,14161,3057263681,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Puntarenas,Corredores,234,234,11384,234,234,11384,2398677851,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Puntarenas,Coto Brus,317,317,17398,317,317,17398,3832109062,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Puntarenas,Esparza,144,154,12554,144,154,12554,3681412092,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Puntarenas,Garabito,250,611,92534,250,611,92534,30916826300,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Puntarenas,Golfito,368,387,28006,368,387,28006,6955772366,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Puntarenas,Montes de Oro,60,64,4033,60,64,4033,950480036,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Puntarenas,Osa,523,571,73498,523,571,73498,23092339842,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Puntarenas,Parrita,173,187,15548,173,187,15548,4449923244,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Puntarenas,Puntarenas,625,701,68580,625,701,68580,20316405708,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,Puntarenas,Quepos,181,244,40175,181,244,40175,13378978511,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Acosta,93,95,6172,93,95,6172,1552436953,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Alajuelita,51,63,7096,51,63,7096,2355172446,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Aserrí,126,126,8124,126,126,8124,2286509390,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Curridabat,42,110,28825,42,110,28825,12329792778,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Desamparados,116,379,35080,116,379,35080,11064518103,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Dota,97,111,7427,97,111,7427,2179270236,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Escazú,119,172,39138,119,172,39138,13407027665,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Goicoechea,71,86,10407,71,86,10407,3337283896,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,León Cortés,45,45,2929,45,45,2929,720675175,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Montes de Oca,27,55,5944,27,55,5944,2182431396,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Mora,110,255,29889,110,255,29889,9840064515,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Moravia,66,92,13568,66,92,13568,4888311871,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Puriscal,153,160,12201,153,160,12201,3452044889,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Pérez Zeledón,831,876,65518,831,876,65518,16907426063,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,San José,56,1517,98478,56,1517,98478,33122731149,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Santa Ana,206,851,151410,206,851,151410,58218576570,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Tarrazú,75,75,4816,75,75,4816,1256744543,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Tibás,10,11,1300,10,11,1300,386995772,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Turrubares,43,44,3517,43,44,3517,957439864,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Cantón,San José,Vázquez de Coronado,44,44,5929,44,44,5929,1966554379,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Costa Rica,NA,NA,18285,24378,2410357,18285,24378,2410357,758986487600,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Provincia,Alajuela,NA,4480,4931,415371,4480,4931,415371,121897164680,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Provincia,Cartago,NA,1624,1925,204228,1624,1925,204228,63844532479,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Provincia,Guanacaste,NA,3218,4029,534582,3218,4029,534582,179340745615,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Provincia,Heredia,NA,1192,2265,210272,1192,2265,210272,66811244315,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Provincia,Limón,NA,2232,2308,130265,2232,2308,130265,31650604165,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Provincia,Puntarenas,NA,3158,3753,377871,3158,3753,377871,113030188693,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2023,Provincia,San José,NA,2381,5167,537768,2381,5167,537768,182412007653,reCONSTRU-VIVGRUPAREA-anual-2023.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,Alajuela,546,615,89335,546,615,89335,29917209973,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,Atenas,182,204,19085,182,204,19085,5882920838,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,Grecia,472,507,52660,472,507,52660,16972834108,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,Guatuso,132,132,6622,132,132,6622,1409302428,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,Los Chiles,131,138,6221,131,138,6221,1327138275,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,Naranjo,143,152,14493,143,152,14493,4313377171,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,Orotina,154,169,11439,154,169,11439,3136459990,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,Palmares,105,105,9494,105,105,9494,2946435464,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,Poás,140,148,11218,140,148,11218,3475990024,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,Río Cuarto,79,82,4327,79,82,4327,1012280623,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,San Carlos,1186,1330,89562,1186,1330,89562,23826896900,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,San Mateo,116,124,12386,116,124,12386,3646743363,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,San Ramón,563,608,47105,563,608,47105,13402672028,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,Upala,585,587,28846,585,587,28846,5791244322,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,Valverde Vega,91,94,8328,91,94,8328,2519711780,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Alajuela,Zarcero,68,70,5653,68,70,5653,1696353870,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Cartago,Alvarado,51,51,2742,51,51,2742,737781943,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Cartago,Cartago,408,503,48627,408,503,48627,15789322000,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Cartago,El Guarco,181,187,20704,181,187,20704,6422480835,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Cartago,Jiménez,47,47,2496,47,47,2496,580180997,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Cartago,La Unión,341,625,91188,341,625,91188,20571091291,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Cartago,Oreamuno,112,167,16325,112,167,16325,5440970153,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Cartago,Paraíso,216,228,18133,216,228,18133,5474397238,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Cartago,Turrialba,320,323,21805,320,323,21805,5174699399,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Guanacaste,Abangares,92,93,5586,92,93,5586,1396616110,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Guanacaste,Bagaces,135,139,7346,135,139,7346,1685851120,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Guanacaste,Carrillo,386,470,79024,386,470,79024,27153438653,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Guanacaste,Cañas,80,85,5575,80,85,5575,1466658662,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Guanacaste,Hojancha,124,126,9933,124,126,9933,2692111055,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Guanacaste,La Cruz,122,122,6652,122,122,6652,1523283240,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Guanacaste,Liberia,447,507,50453,447,507,50453,15423405860,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Guanacaste,Nandayure,143,154,12260,143,154,12260,3654849395,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Guanacaste,Nicoya,500,588,62609,500,588,62609,19800759706,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Guanacaste,Santa Cruz,968,1215,208504,968,1215,208504,75706817880,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Guanacaste,Tilarán,147,161,15105,147,161,15105,4395959870,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Heredia,Barva,91,96,12820,91,96,12820,4134247714,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Heredia,Belén,52,235,34260,52,235,34260,12836703095,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Heredia,Flores,40,46,6830,40,46,6830,2204190882,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Heredia,Heredia,104,379,51740,104,379,51740,18063194016,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Heredia,San Isidro,91,93,14627,91,93,14627,4875516038,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Heredia,San Pablo,27,47,4401,27,47,4401,1565619012,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Heredia,San Rafael,143,238,29967,143,238,29967,9998871065,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Heredia,Santa Bárbara,98,101,11908,98,101,11908,3797584357,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Heredia,Santo Domingo,160,195,29040,160,195,29040,10086316492,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Heredia,Sarapiquí,490,493,24742,490,493,24742,5052482148,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Limón,Guácimo,317,320,14950,317,320,14950,3034089707,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Limón,Limón,146,154,9679,146,154,9679,2439965727,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Limón,Matina,176,176,8427,176,176,8427,1704099504,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Limón,Pococí,850,865,46990,850,865,46990,10405435015,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Limón,Siquirres,226,229,11850,226,229,11850,2551359648,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Limón,Talamanca,323,370,28834,323,370,28834,8638862045,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Puntarenas,Buenos Aires,363,367,16411,363,367,16411,3086414359,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Puntarenas,Corredores,227,227,11477,227,227,11477,2360068713,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Puntarenas,Coto Brus,372,375,20353,372,375,20353,4426177687,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Puntarenas,Esparza,136,155,11619,136,155,11619,3570045632,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Puntarenas,Garabito,262,750,106875,262,750,106875,37980763122,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Puntarenas,Golfito,284,294,20216,284,294,20216,4984364200,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Puntarenas,Monte Verde,42,46,3311,42,46,3311,986843452,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Puntarenas,Montes de Oro,84,95,6037,84,95,6037,1570777437,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Puntarenas,Osa,432,476,55924,432,476,55924,17145987164,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Puntarenas,Parrita,148,164,12130,148,164,12130,3351341578,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Puntarenas,Puerto Jiménez,13,16,1020,13,16,1020,255954095,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Puntarenas,Puntarenas,524,847,73812,524,847,73812,23083014689,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,Puntarenas,Quepos,153,215,33299,153,215,33299,10802225520,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Acosta,88,89,6059,88,89,6059,1496022834,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Alajuelita,51,60,11375,51,60,11375,3250530571,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Aserrí,105,105,7358,105,105,7358,2138383507,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Curridabat,47,113,17829,47,113,17829,6019844529,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Desamparados,98,101,9593,98,101,9593,2961931943,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Dota,91,99,8174,91,99,8174,2243432686,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Escazú,101,238,72168,101,238,72168,25973397583,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Goicoechea,51,136,23258,51,136,23258,7333863219,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,León Cortés,29,29,1784,29,29,1784,462028517,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Montes de Oca,30,190,18447,30,190,18447,6475476811,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Mora,108,113,11727,108,113,11727,3724952754,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Moravia,76,78,10591,76,78,10591,3459976962,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Puriscal,147,152,11608,147,152,11608,3123907844,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Pérez Zeledón,981,1040,71479,981,1040,71479,18084278766,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,San José,49,587,46362,49,587,46362,16648488969,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Santa Ana,215,452,97965,215,452,97965,35533561007,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Tarrazú,89,90,6386,89,90,6386,1649279061,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Tibás,13,22,1741,13,22,1741,561493672,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Turrubares,60,61,4725,60,61,4725,1291767589,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Cantón,San José,Vázquez de Coronado,39,39,5507,39,39,5507,1836956693,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Costa Rica,NA,NA,18355,22714,2259526,18355,22714,2259526,695630336194,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Provincia,Alajuela,NA,4693,5065,416774,4693,5065,416774,121277571157,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Provincia,Cartago,NA,1676,2131,222020,1676,2131,222020,60190923856,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Provincia,Guanacaste,NA,3144,3660,463047,3144,3660,463047,154899751551,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Provincia,Heredia,NA,1296,1923,220335,1296,1923,220335,72614724819,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Provincia,Limón,NA,2038,2114,120730,2038,2114,120730,28773811646,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Provincia,Puntarenas,NA,3040,4027,372484,3040,4027,372484,113603977648,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
+2024,Provincia,San José,NA,2468,3794,444136,2468,3794,444136,144269575517,reCONSTRU-VIVGRUPAREA-anual2024.xlsx,0,0,0,OK
