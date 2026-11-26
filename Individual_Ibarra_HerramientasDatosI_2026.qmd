@@ -1,0 +1,237 @@
+---
+title: "Verticalización y transformación del tamaño de la vivienda en Costa Rica"
+subtitle: "Viviendas menores de 40 m² y torres residenciales en la Gran Área Metropolitana, 2014-2024"
+author: "Pablo Ibarra Marín"
+date: "2026-11-25"
+lang: es
+format:
+  typst:
+    fig-cap-location: top
+    tbl-cap-location: top
+crossref:
+  fig-title: "Figura"
+  tbl-title: "Tabla"
+editor: visual
+fontsize: 12pt
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+#| include: false
+
+# Flujo reproducible: configuración, homologación y análisis final.
+source("config/00_configuracion.R")
+source("cod/01_importacion_CFIA.R")
+source("cod/02_homologacion_INEC.R")
+source("cod/03_analisis.R")
+```
+
+# 1. Introducción
+
+La Gran Área Metropolitana (GAM) combina vivienda tradicional, condominios y edificios de apartamentos. Este trabajo analiza las viviendas **menores de 40 m²**, el extremo inferior de la clasificación del INEC, para determinar si su mayor presencia reciente es general o territorialmente concentrada. Se integran las **Estadísticas de la Construcción del INEC** y los registros **APC del CFIA** para 2014-2024.
+
+# 2. Objetivo
+
+Analizar la evolución de las viviendas autorizadas de menos de 40 m² en la GAM entre 2014 y 2024 y evaluar si su crecimiento se asocia con proyectos residenciales de más de 10 niveles registrados en el CFIA.
+
+# 3. Metodología
+
+Los cuadros anuales del INEC se homologaron en seis grupos de área y se validaron contra los totales publicados; la variable principal es la participación de viviendas menores de 40 m² sobre el total autorizado. En CFIA se agregaron las filas por proyecto y se definió como **torre residencial alta probable** un proyecto nuevo de apartamento o condominio con más de 10 niveles acumulados; es un *proxy* porque los niveles pueden incluir sótanos. La GAM se aproxima mediante 31 cantones completos por la disponibilidad pública del INEC.
+
+El corte 2018/2019 se seleccionó por mínima suma de cuadrados dentro de los períodos (`r scales::percent(reduccion_sse_corte, accuracy = 0.1)` de reducción frente a una sola media). Pearson mide asociación lineal y Spearman asociación monotónica por rangos; ambas se interpretan de forma exploratoria, sin causalidad.
+
+# 4. Resultados
+
+## 4.1 Mayor presencia desde 2019, pero sin crecimiento continuo
+
+La participación de viviendas menores de 40 m² fue `r scales::percent(participacion_lt40_2014, accuracy = 0.1)` en 2014 y `r scales::percent(participacion_lt40_2024, accuracy = 0.1)` en 2024. Sin embargo, los extremos ocultan el cambio intermedio: el máximo se alcanza en `r anio_pico_menor_40`, con `r viviendas_lt40_pico` unidades y `r scales::percent(participacion_lt40_pico, accuracy = 0.1)` del total de la GAM. El promedio anual pasa de `r scales::percent(promedio_lt40_2014_2018, accuracy = 0.1)` en 2014-2018 a `r scales::percent(promedio_lt40_2019_2024, accuracy = 0.1)` en 2019-2024; la mediana aumenta de `r scales::percent(mediana_lt40_2014_2018, accuracy = 0.1)` a `r scales::percent(mediana_lt40_2019_2024, accuracy = 0.1)`.
+
+```{r}
+#| label: fig-menor40-gam
+#| fig-cap: "GAM: participación anual de viviendas autorizadas menores de 40 m², 2014-2024."
+#| fig-width: 7.2
+#| fig-height: 3.4
+
+grafico_menor_40_gam
+```
+
+*Fuente: elaboración propia con datos del INEC.*
+
+La @fig-menor40-gam muestra que el cambio es **discontinuo**. Pearson entre año y participación menor de 40 m² es `r round(cor_tiempo_menor_40_pearson, 3)` y Spearman `r round(cor_tiempo_menor_40_spearman, 3)`. El mayor Spearman indica que los años recientes tienden a ocupar posiciones más altas, pero los saltos de 2019, 2022 y 2023 y la caída de 2024 impiden describir el fenómeno como una tendencia lineal estable.
+
+## 4.2 El crecimiento está fuertemente concentrado
+
+En el año de máxima participación regional, el cantón líder concentra `r scales::percent(concentracion_pico$participacion_lider, accuracy = 0.1)` de todas las unidades menores de 40 m² de la GAM y los tres primeros cantones concentran `r scales::percent(concentracion_pico$participacion_top3, accuracy = 0.1)`. Esto implica que un grupo reducido de proyectos puede alterar de manera importante el indicador regional.
+
+```{r}
+#| label: fig-concentracion-menor40
+#| fig-cap: "GAM: cantones con mayor número de viviendas menores de 40 m² en el año de máxima participación regional."
+#| fig-width: 7.2
+#| fig-height: 3.5
+
+grafico_menor_40_pico
+```
+
+*Fuente: elaboración propia con datos del INEC.*
+
+La @fig-concentracion-menor40 confirma que el aumento no representa una transformación homogénea de toda la GAM. La lectura más consistente es la de **oleadas de oferta compacta territorialmente concentradas**, especialmente visibles en el pico de 2023.
+
+## 4.3 La verticalización no explica la presencia de microviviendas
+
+Se identificaron `r total_torres_cr` torres residenciales altas probables en Costa Rica y `r total_torres_gam` en la GAM; por tanto, `r scales::percent(total_torres_gam / total_torres_cr, accuracy = 0.1)` se concentra en la región metropolitana. Aun así, en el cruce por cantón y año la asociación entre número de torres y participación de viviendas menores de 40 m² es prácticamente nula: Pearson = `r round(correlaciones_gam$pearson[correlaciones_gam$variable == "Viviendas menores de 40 m²"], 3)` y Spearman = `r round(correlaciones_gam$spearman[correlaciones_gam$variable == "Viviendas menores de 40 m²"], 3)`.
+
+La prueba de largo plazo conduce a la misma conclusión. Al comparar las torres acumuladas en 2014-2024 con el cambio en la participación menor de 40 m² entre 2014 y 2024, Pearson es `r round(cor_cambio_menor_40, 3)` y Spearman `r round(cor_cambio_menor_40_spearman, 3)`. Al excluir San José, los coeficientes permanecen próximos a cero (`r round(cor_cambio_sin_san_jose, 3)` y `r round(cor_cambio_sin_san_jose_spearman, 3)`).
+
+```{r}
+#| label: fig-cambio-torres-menor40
+#| fig-cap: "GAM: torres altas acumuladas y cambio en la participación de viviendas menores de 40 m² entre 2014 y 2024."
+#| fig-width: 7.2
+#| fig-height: 3.5
+
+grafico_cambio_torres
+```
+
+*Fuente: elaboración propia con datos del INEC y CFIA-APC.*
+
+La ausencia de una pendiente clara en la @fig-cambio-torres-menor40 contradice la hipótesis de que la verticalización, por sí sola, explique la expansión de unidades muy compactas. Las torres y las microviviendas pueden coexistir, pero su relación depende de decisiones de producto, mercado objetivo, localización y proyectos específicos.
+
+# 5. Conclusiones y limitaciones
+
+La evidencia respalda un **aumento reciente pero irregular** de las viviendas menores de 40 m² en la GAM: tanto el promedio como la mediana son mayores desde 2019, aunque la caída de 2024 impide hablar de crecimiento continuo. Además, el fenómeno está territorialmente concentrado, por lo que los picos regionales pueden responder a proyectos puntuales y no a una reducción generalizada del tamaño de todas las nuevas viviendas.
+
+La segunda hipótesis no encuentra respaldo en los datos agregados. Pearson y Spearman permanecen próximos a cero tanto en el cruce por cantón y año como en el cambio acumulado 2014-2024, incluso al excluir San José. Por ello, la cantidad de torres de más de 10 niveles no constituye una explicación suficiente para la presencia de viviendas menores de 40 m².
+
+Las principales limitaciones son que INEC registra permisos y viviendas autorizadas, CFIA registra proyectos tramitados en APC y no necesariamente terminados, los niveles pueden incluir sótanos y la GAM se aproxima con cantones completos. Las correlaciones son exploratorias y no permiten establecer causalidad. Un siguiente paso sería identificar proyectos concretos detrás de los picos y trabajar a escala distrital cuando la información lo permita.
+
+# 6. Bibliografía
+
+Colegio Federado de Ingenieros y de Arquitectos de Costa Rica. (2014-2024). *Registros del Administrador de Proyectos de Construcción (APC)* \[Conjunto de datos\]. CFIA.
+
+Instituto Nacional de Estadística y Censos. (2014-2024). *Estadísticas de la construcción: cuadros anuales de viviendas y apartamentos según provincia, cantón y grupos de área* \[Conjunto de datos\]. INEC.
+
+Instituto Nacional de Estadística y Censos. (2025). *Estadísticas de la construcción 2024: resultados definitivos* \[Informe\]. INEC.
+
+# 7. Anexos
+
+## 7.1 Evaluación del punto de corte temporal
+
+La @tbl-cortes-temporales resume los cortes evaluados y sustenta la selección exploratoria de 2018/2019.
+
+```{r}
+#| label: tbl-cortes-temporales
+#| tbl-cap: "Puntos de corte evaluados para la serie de viviendas menores de 40 m² en la GAM"
+
+knitr::kable(
+  tabla_evaluacion_cortes_gam |>
+    transmute(
+      Corte,
+      `Media antes` = scales::percent(`Media período 1`, accuracy = 0.1),
+      `Media después` = scales::percent(`Media período 2`, accuracy = 0.1),
+      `SSE (pp²)` = round(SSE * 10000, 2),
+      `Reducción SSE` = scales::percent(`Reducción SSE`, accuracy = 0.1)
+    ),
+  align = c("l", "r", "r", "r", "r")
+)
+```
+
+*Fuente: elaboración propia con datos del INEC.*
+
+## 7.2 Correlaciones de robustez
+
+La @tbl-correlaciones presenta las correlaciones utilizadas para contrastar la asociación entre verticalización y viviendas menores de 40 m².
+
+```{r}
+#| label: tbl-correlaciones
+#| tbl-cap: "GAM: correlaciones entre torres altas y variables de tamaño de vivienda"
+
+knitr::kable(tabla_correlaciones, align = c("l", "r", "r"))
+```
+
+*Fuente: elaboración propia con datos del INEC y CFIA-APC.*
+
+## 7.3 Composición nacional por grupos de área
+
+La siguiente figura se conserva como referencia complementaria para mostrar cómo se distribuyen las viviendas autorizadas de Costa Rica entre los seis grupos de área a lo largo del período. No forma parte del argumento principal sobre la relación entre microvivienda y verticalización en la GAM.
+
+```{r}
+#| label: fig-composicion-cr-anexo
+#| fig-cap: "Costa Rica: composición de las viviendas autorizadas según los seis grupos de área, 2014-2024. Cada barra representa el 100% de las viviendas del año."
+#| fig-width: 8.2
+#| fig-height: 4.8
+
+orden_grupos_area_anexo <- c(
+  "Menos de 40",
+  "40 a menos de 70",
+  "70 a menos de 100",
+  "100 a menos de 150",
+  "150 a menos de 200",
+  "200 y más"
+)
+
+inec |>
+  filter(nivel_geo == "Costa Rica") |>
+  group_by(anio, grupo_area) |>
+  summarise(
+    viviendas = sum(viviendas, na.rm = TRUE),
+    .groups = "drop"
+  ) |>
+  group_by(anio) |>
+  mutate(
+    participacion = viviendas / sum(viviendas, na.rm = TRUE),
+    grupo_area = factor(
+      grupo_area,
+      levels = orden_grupos_area_anexo
+    )
+  ) |>
+  ungroup() |>
+  ggplot(
+    aes(
+      x = factor(anio),
+      y = participacion,
+      fill = grupo_area
+    )
+  ) +
+  geom_col(width = 0.82) +
+  scale_y_continuous(
+    labels = scales::percent_format(accuracy = 1),
+    expand = expansion(mult = c(0, 0))
+  ) +
+  scale_fill_manual(
+    values = c(
+      "Menos de 40" = "#F8766D",
+      "40 a menos de 70" = "#C49A00",
+      "70 a menos de 100" = "#00BA38",
+      "100 a menos de 150" = "#00BFC4",
+      "150 a menos de 200" = "#619CFF",
+      "200 y más" = "#F564E3"
+    ),
+    drop = FALSE
+  ) +
+  labs(
+    x = "Año",
+    y = "Participación de las viviendas",
+    fill = "Grupo de área"
+  ) +
+  theme_minimal(base_size = 11) +
+  theme(
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    legend.position = "bottom",
+    legend.title = element_text(size = 10),
+    legend.text = element_text(size = 9)
+  ) +
+  guides(
+    fill = guide_legend(nrow = 2, byrow = TRUE)
+  )
+```
+
+*Fuente: elaboración propia con datos del INEC.*
+
+## 7.4 Reproducibilidad
+
+Repositorio público: <https://github.com/pabloimarin89/investigacion-bienes-raices-inec>
+
+El proyecto sigue la estructura de clase `cod`, `data`, `info` y `config`. Los scripts que generan la homologación, manipulación, tablas y figuras se encuentran en `cod/`; la configuración está en `config/`. El informe oculta el código (`echo: false`) y deja la programación disponible en el repositorio para asegurar la reproducibilidad.
