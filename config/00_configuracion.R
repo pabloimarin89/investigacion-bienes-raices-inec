@@ -17,8 +17,7 @@ options(scipen = 999)
 paquetes <- c(
   "tidyverse",
   "readxl",
-  "janitor",
-  "haven"
+  "janitor"
 )
 
 paquetes_faltantes <- paquetes[
@@ -42,16 +41,18 @@ invisible(
 # ------------------------------------------------------------
 
 carpetas <- c(
-  "01_datos_raw",
-  "01_datos_raw/INEC",
-  "01_datos_raw/CFIA",
-  "01_datos_raw/MEIC",
-  "02_datos_procesados",
-  "03_scripts_R",
-  "04_graficos",
-  "05_tablas",
-  "06_presentacion",
-  "07_documentos"
+  "cod",
+  "data",
+  "data/raw",
+  "data/raw/INEC",
+  "data/raw/CFIA",
+  "data/procesados",
+  "info",
+  "info/figuras",
+  "info/tablas",
+  "info/presentacion",
+  "info/documentos",
+  "config"
 )
 
 for (carpeta in carpetas) {
@@ -75,7 +76,7 @@ print(list.dirs(recursive = FALSE))
 # NOTA
 # ------------------------------------------------------------
 # Abrir siempre el proyecto mediante:
-# Investigacion_Bienes_Raices_INEC.Rproj
+# Individual_Ibarra_HerramientasDatosI_2026.Rproj
 #
 # No se utiliza setwd() con una ruta absoluta. Esto mantiene el
 # proyecto reproducible y permite que funcione aunque cambie la

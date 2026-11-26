@@ -1,10 +1,10 @@
 # ============================================================
 # INVESTIGACIÓN: VERTICALIZACIÓN Y TRANSFORMACIÓN DE LA VIVIENDA
-# Script 06: Homologación INEC 2014-2024
+# Script 02: Homologación INEC 2014-2024
 # Fuente: INEC - Estadísticas de la Construcción
 # ============================================================
 
-source("03_scripts_R/00_configuracion.R")
+source("config/00_configuracion.R")
 
 # ------------------------------------------------------------
 # 1. Archivos comparables seleccionados
@@ -25,7 +25,7 @@ fuentes <- tibble::tribble(
   2024, "reCONSTRU-VIVGRUPAREA-anual2024.xlsx"
 ) |>
   mutate(
-    ruta = file.path("01_datos_raw/INEC", archivo)
+    ruta = file.path("data/raw/INEC", archivo)
   )
 
 if (any(!file.exists(fuentes$ruta))) {
@@ -386,16 +386,6 @@ resumen_nacional <- base_homologada |>
     permisos = sum(permisos),
     viviendas = sum(viviendas),
     area_m2 = sum(area_m2),
-    viviendas_menor_70 = sum(
-      viviendas[
-        grupo_area %in% c(
-          "Menos de 40",
-          "40 a menos de 70"
-        )
-      ]
-    ),
-    participacion_menor_70 =
-      viviendas_menor_70 / viviendas,
     .groups = "drop"
   )
 
@@ -405,27 +395,27 @@ resumen_nacional <- base_homologada |>
 
 readr::write_csv(
   base_homologada,
-  "02_datos_procesados/INEC_construccion_homologada_2014_2024.csv"
+  "data/procesados/INEC_construccion_homologada_2014_2024.csv"
 )
 
 readr::write_csv(
   base_cantonal,
-  "02_datos_procesados/INEC_construccion_cantonal_2014_2024.csv"
+  "data/procesados/INEC_construccion_cantonal_2014_2024.csv"
 )
 
 saveRDS(
   base_homologada,
-  "02_datos_procesados/INEC_construccion_homologada_2014_2024.rds"
+  "data/procesados/INEC_construccion_homologada_2014_2024.rds"
 )
 
 readr::write_csv(
   validacion,
-  "05_tablas/INEC_validacion_homologacion_2014_2024.csv"
+  "info/tablas/INEC_validacion_homologacion_2014_2024.csv"
 )
 
 readr::write_csv(
   resumen_nacional,
-  "05_tablas/INEC_resumen_nacional_2014_2024.csv"
+  "info/tablas/INEC_resumen_nacional_2014_2024.csv"
 )
 
 cat("\nHomologación INEC 2014-2024 completada.\n")

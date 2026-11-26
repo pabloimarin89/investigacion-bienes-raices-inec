@@ -1,17 +1,17 @@
 # ============================================================
 # INVESTIGACIÓN: VERTICALIZACIÓN Y TRANSFORMACIÓN DE LA VIVIENDA
-# Script 04: Importación y homologación CFIA 2014-2024
+# Script 01: Importación y homologación CFIA 2014-2024
 # Fuente: CFIA - Administrador de Proyectos de Construcción (APC)
 # ============================================================
 
-source("03_scripts_R/00_configuracion.R")
+source("config/00_configuracion.R")
 
 # ------------------------------------------------------------
 # 1. Definir período de estudio
 # ------------------------------------------------------------
 
 anios_estudio <- 2014:2024
-carpeta_cfia <- "01_datos_raw/CFIA"
+carpeta_cfia <- "data/raw/CFIA"
 
 # ------------------------------------------------------------
 # 2. Localizar los archivos
@@ -141,7 +141,7 @@ if (length(variables_faltantes) == 0) {
 
 saveRDS(
   cfia_raw,
-  "02_datos_procesados/cfia_2014_2024_raw_homologada.rds"
+  "data/procesados/cfia_2014_2024_raw_homologada.rds"
 )
 
 cat(
